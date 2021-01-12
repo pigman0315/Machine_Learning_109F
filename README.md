@@ -1,6 +1,6 @@
 # Homework of Machine Learning 109F
 > Lectured by Prof. Jen-Tzung Chien
-> This note owned by Wen-Sheng Lo
+> and this note is owned by Wen-Sheng Lo
 ### HW1
 1. Bayesian Linear Regression
     - Prove the predictive distribution of Bayesian linear regression
